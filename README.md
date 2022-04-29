@@ -11,6 +11,7 @@ Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, an
 - Game Boy
 - Game Boy Color
 - Game Boy Advance
+- Virtual Boy
 - Master System
 - Mega Drive (Genesis)
 - Game Gear
@@ -23,7 +24,6 @@ Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, an
 - Nintendo 64
 - 64DD
 - Nintendo DS
-- Virtual Boy
 - 2600
 - 7800
 - Lynx
@@ -37,7 +37,7 @@ Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, an
 ------
 
 **ROMs are selected in the following order of preference, favouring the English language and the USA region for 60Hz gameplay:**
-- USA > World > Europe > Japan
+- USA > World > Europe > Japan (English Translated) > Japan
 
 <br>
 
