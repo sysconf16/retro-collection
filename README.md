@@ -1,11 +1,12 @@
 # Retro Collection
 A collection of hand-picked titles for your favourite retro systems - now playable through your browser.
 
-Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, and the [Internet Archive](https://archive.org/) for hosting.
+Uses [webЯcade](https://github.com/webrcade/webrcade) as a front-end, and the [Internet Archive](https://archive.org/) for hosting.
 
 ------
 
 ### Currently Available Systems
+- Arcade
 - Nintendo Entertainment System
 - Super Nintendo Entertainment System
 - Game Boy
@@ -13,12 +14,11 @@ Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, an
 - Game Boy Advance
 - Virtual Boy
 - Master System
-- Mega Drive (Genesis)
+- Mega Drive
 - Game Gear
-- MS-DOS (Doom - Shareware)
+- MS-DOS (Currently only Doom "Shareware")
 
-### Upcoming Systems (Subject to [webЯcade](https://www.webrcade.com/) Emulator Availability)
-- Arcade
+### Upcoming Systems (Subject to Compatibility)
 - Famicom Disk System
 - Satellaview
 - Nintendo 64
@@ -41,6 +41,6 @@ Harnesses the power of [webЯcade](https://www.webrcade.com/) as a front-end, an
 
 <br>
 
-System logos sourced [here](https://wikipedia.org/).
+The majority of the backgrounds have been sourced from [here](https://wikipedia.org/).
 
-System images sourced [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).
+All thumbnails have been sourced from [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).
