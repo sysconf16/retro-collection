@@ -8,7 +8,554 @@
       "backgroundPixelated": false,
       "longTitle": "Arcade",
       "description": "An arcade game or coin-op game is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are presented as primarily games of skill and include arcade video games, Pinball machines, electro-mechanical games, redemption games or merchandisers.",
-      "items": []
+      "items": [
+        {
+          "type": "arcade",
+          "title": "R-Type",
+          "longTitle": "R-Type",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/R-Type%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/R-Type%20(World).png",
+          "description": "R-Type is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.\n\nThe game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R-Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.\n\nThe most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R-Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.\n\nR-Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Frtype.zip"
+          },
+          "added": 1651336049719
+        },
+        {
+          "type": "arcade",
+          "title": "Rygar",
+          "longTitle": "Rygar",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Rygar%20(US%20set%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Rygar%20(US%20set%201).png",
+          "description": "Rygar is a video game created by Tecmo in 1986. In the arcade version's story, the year 19XX sees the rise of dread creatures, not seen since before the Common Era, led by Ligar. Dominating the world, Ligar and his forces oppress humanity. The only thing that preserves humanity's will to survive is a prophecy that Ligar's rule will be opposed by the return of a long-dead warrior of Argos. That warrior does return to the world of the living, and he alone can save humanity.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Frygar.zip"
+          },
+          "added": 1651336093667
+        },
+        {
+          "type": "arcade-capcom",
+          "title": "Ghouls 'n Ghosts",
+          "longTitle": "Ghouls 'n Ghosts",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Ghouls'n%20Ghosts%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Ghouls'n%20Ghosts%20(World).png",
+          "description": "Three years after the events of Ghosts 'n Goblins, the Ghosts have returned with Ghouls for revenge, initiating a mortal holocaust on the Princess' kingdom as beams of light struck through countless villagers. When Sir Arthur returns to the village, his rescue attempt was too soon as his beloved Princess Prin-Prin also has her soul taken away from her body in front of his very eyes. Now it's up to the heroic knight once again to slay his way to the hellish castle to defeat the evil Lucifer and his legion of demons and restore the souls of Prin-Prin and every mortal.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fghouls.zip"
+          },
+          "added": 1651336170845
+        },
+        {
+          "type": "arcade",
+          "title": "Ghosts 'n Goblins",
+          "longTitle": "Ghosts 'n Goblins",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Ghosts'n%20Goblins%20(World_%20set%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Ghosts'n%20Goblins%20(World_%20set%201).png",
+          "description": "Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.\n\nThe player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fgng.zip"
+          },
+          "added": 1651336181642
+        },
+        {
+          "type": "arcade",
+          "title": "After Burner II",
+          "longTitle": "After Burner II",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/After%20Burner%20II.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/After%20Burner%20II.png",
+          "description": "After Burner is another Sega game rendered with their then-ubiquitous 3-D sprite-scaling technology; this time putting the player into the seat of a powerful F14 Tomcat jet fighter. \n\nPlayers must fight their way through 21 colourful, fast-moving stages, shooting down waves of enemy fighters while avoiding the enemy's incoming missiles. The F14 is equipped with a machine gun and a limited number of homing missiles. The gun has infinite ammunition and targeting is achieved by maneuvering the Tomcat so that the targeting cursor situated just in front of the jet is placed over an enemy fighter. \n\nAfter Burner's straightforward shoot-em-up gameplay is simple and repetitive, but the game's incredible visuals ensured its success.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Faburner2.zip"
+          },
+          "added": 1651336653510
+        },
+        {
+          "type": "arcade",
+          "title": "Alex Kidd: The Lost Stars",
+          "longTitle": "Alex Kidd: The Lost Stars",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Alex%20Kidd_%20The%20Lost%20Stars%20(set%202%2C%20unprotected).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Alex%20Kidd_%20The%20Lost%20Stars%20(set%202%2C%20unprotected).png",
+          "description": "Alex Kidd: The Lost Stars features Alex Kidd and Stella searching for the twelve Zodiac signs. Alex's mission is to run through each level, knocking down enemies, and obtain the six miracle balls. These balls are hidden inside such unusual places as a Christmas present, the Fantasy Zone ship out of action, a pumpkin, a clamshell, a golden egg, and a desk bell. Levels include Toy World, Machine World, World of Make Believe, Water World, Monster World, and Giant's Body.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Falexkidd.zip"
+          },
+          "added": 1651336662869
+        },
+        {
+          "type": "arcade",
+          "title": "Altered Beast",
+          "longTitle": "Altered Beast",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Altered%20Beast%20(set%208%2C%208751%20317-0078).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Altered%20Beast%20(set%208%2C%208751%20317-0078).png",
+          "description": "Altered Beast is a 1988 beat 'em up arcade video game developed and manufactured by Sega. The game is set in Ancient Greece and follows a player character chosen by Zeus to rescue his daughter Athena from the demonic ruler of the underworld, Neff. Through the use of power-ups, the player character can assume the form of different magical beasts (wolf, dragon, bear, tiger, and golden wolf).\n\nThe game was developed by Makoto Uchida, who developed the game as his first project as a lead developer. Uchida and his team used the System 16 arcade system board for its graphical capabilities with sprites.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Faltbeast.zip"
+          },
+          "added": 1651336668558
+        },
+        {
+          "type": "arcade",
+          "title": "Bionic Commando",
+          "longTitle": "Bionic Commando",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Bionic%20Commando%20(Euro).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Bionic%20Commando%20(Euro).png",
+          "description": "Bionic Commando is a 1987 run-and-gun platform game released by Capcom in arcades in 1987. It was designed by Tokuro Fujiwara as a successor to his earlier \"wire action\" platformer Roc'n Rope (1983), building on its grappling hook mechanic; he was also the designer of Commando (1985). The music was composed by Harumi Fujita for the Yamaha YM2151 sound chip.\n\nThe protagonist is a commando equipped with a bionic arm featuring a grappling gun, allowing him to pull himself forward or swing from the ceiling. Despite being a platform game, the player cannot jump. To cross gaps or climb ledges, the hero must use the bionic arm.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fbionicc.zip"
+          },
+          "added": 1651336673118
+        },
+        {
+          "type": "arcade",
+          "title": "Bonanza Bros",
+          "longTitle": "Bonanza Bros",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Bonanza%20Bros%20(US%2C%20Floppy%20DS3-5000-07d_%20Based).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Bonanza%20Bros%20(US%2C%20Floppy%20DS3-5000-07d_%20Based).png",
+          "description": "Bonanza Bros. is a strategic platform shoot-em-up with one or two players taking on the roles of Robo and Mobo, two cat-burgling brothers who must negotiate scrolling platform-based levels and steal a set number of valuable items, before making their way to the roof to escape in a waiting airship. The location of the items is highlighted on a cut-away map displayed in the middle of the screen and each stage must be completed within a set time limit.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fbnzabros.zip"
+          },
+          "added": 1651336679468
+        },
+        {
+          "type": "arcade",
+          "title": "Double Dragon",
+          "longTitle": "Double Dragon",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Double%20Dragon%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Double%20Dragon%20(Japan).png",
+          "description": "Double Dragon is a 1987 beat 'em up video game developed by Technōs Japan and distributed by Taito for arcades across Asia, North America and Europe. It is the first title in the Double Dragon franchise. The game's development was led by Yoshihisa Kishimoto, and it is a spiritual and technological successor to Technos' earlier beat 'em up, Nekketsu Kōha Kunio-kun (1986), released outside of Japan by Taito as Renegade; Kishimoto originally envisioned it as a direct sequel and part of the Kunio-kun series, before making it a new game with a different cast and setting.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fddragon.zip"
+          },
+          "added": 1651336684753
+        },
+        {
+          "type": "arcade",
+          "title": "Double Dragon II - The Revenge",
+          "longTitle": "Double Dragon II - The Revenge",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Double%20Dragon%20II%20-%20The%20Revenge%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Double%20Dragon%20II%20-%20The%20Revenge%20(World).png",
+          "description": "Double Dragon II: The Revenge is a side-scrolling beat 'em up produced by Technōs Japan originally released as a coin-operated arcade game in 1988. It is the first sequel to Double Dragon, released during the previous year. The sequel involves Billy and Jimmy Lee in a mission to avenge Billy's girlfriend Marian after she is shot to death by the Black Warriors leader Willy, who is retaliating against the Lee brothers after his defeat at the end of the previous game. Double Dragon II was initially developed as an upgrade kit for the original Double Dragon, but evolved into a stand-alone game due to an increase in memory size, resulting in the developers reusing assets for both games.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fddragon2.zip"
+          },
+          "added": 1651336690111
+        },
+        {
+          "type": "arcade",
+          "title": "Double Dragon 3 - The Rosetta Stone",
+          "longTitle": "Double Dragon 3 - The Rosetta Stone",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Double%20Dragon%203%20-%20The%20Rosetta%20Stone%20(US).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Double%20Dragon%203%20-%20The%20Rosetta%20Stone%20(US).png",
+          "description": "A mysterious fortune teller warns Billy & Jimmy Lee about the rise of a powerful enemy in Egypt. Since the Lee brothers are looking for a true challenge to put their martial arts skills to the ultimate test, they agree to face this mysterious new enemy. They embark on a world quest - joining up with new allies in the process - and try to lay claim to the famous 'Rosetta Stone'.\n\nThe 3rd and final arcade entry of the Double Dragon series (not counting the later Neo-Geo fighting game based on the movie) features a completely gameplay system and graphics from the first two installments. The game can played by up to 2 or 3 players, depending on the cabinet and settings. The 3rd player takes control of a yellow-clad Lee brother named Sonny, who is exclusive to this game. Techniques from the previous games such as the hair grab and the elbow punch are gone, but new ones are added such as the belly-to-back throw and the back-to-back hurricane kick, as well as the ability to dash by tapping the joystick left or right twice.\n\nThe game features weapon shops that allows the player to purchase power-ups by inserting additional tokens. The power-ups differ between stages differ between stages and are available as followed.\nExtra Guys - Allows the player to control a new character who replaces the current fighter when he dies. There are three character types in addition to the Lee brothers.\nThe Urquidez Brothers (Roney, Sunny, Jonny) -  Tall European grapplers. They have the most energy of the four character types.  Up to three fighters can be have in reserve.\nThe Chin Brothers (Seimei, Taimei, Sinmei) - Chubby Chinese men with powerful attacks.\nThe Oyama Brothers (Masao, Kunio, Akira) - Japanese karate masters dressed in gis specializing in speedy attacks.\n? Tricks - The hurricane kick and the one-armed stand head butt are added to the player's move set. If the player's current character dies, then the new techniques will be inherited by the next character in reserve, if there is one.\nWeapons - A nunchaku or sword are given player. Only the Lees can have purchase and wield weapons.\nEnergy - Restores the current character's life to 150%.\nPower-Up - Increases the character's agility.\n\nThere are 5 stages in the game:\n\nMission 1 - America - The enemies in this stage are typical thugs and bikers. The first area takes place in a downtown area of city. After defeating the first wave of enemies, the player will enter a warehouse, where they encounter bikers that will try to run over them with their bike. The boss in this is Jim, a red-haired biker wearing a leather jacket.\n\nMission 2 - China - The enemies are martial artists that specialize in flying kicks. The stage takes place in a single level set in a countryside near the Great Wall of China. The boss at the end of level is Li Cheng-Long, a Shaolin Martial Arts expert who resembles Bruce Lee. When he's down in life, he will wield out his club.\n\nMission 3 - Japan - The enemies are samurai swordsmen. The first area takes place outside a castle, with bamboo traps and enemies coming out of walls. The second area takes place inside a castle, where the player will face a few more swordsmen before taking out on the boss, Ranzou, a ninja. He attacks with throwing stars and smoke bombs and splits into three forms when he's down on his life.\n\nMission 4 - Italy - Consists of a single level set in the ruins of a coliseum. The enemies are roman archers. After defeating most of the archers, the boss Giuliano, a man decked in gladiator armor, will attempt to run the player over with his horse. After defeating all the archers, Giuliano will dismount at the end of the level and fight the player. He wields a long hand spear and can block attacks with his shield.\n\nMission 5 - Egypt - The final stage is composed of seven levels, which includes a desert field, an underground forest, a trap room with stone pillars and giant hands emerging from the floor, a hall with a flying disc. Enemies include living tree men and rock creatures.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fddragon3.zip"
+          },
+          "added": 1651336703917
+        },
+        {
+          "type": "arcade",
+          "title": "Donkey Kong 3",
+          "longTitle": "Donkey Kong 3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Donkey%20Kong%203%20(US).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Donkey%20Kong%203%20(US).png",
+          "description": "Donkey Kong hangs from vines at the center of the screen, and the player-controlled Stanley the exterminator runs and jumps on platforms beneath him. Stanley can fire bug spray at both Donkey Kong and insects flying around the levels. A level is completed by continually using bug spray on Donkey Kong, forcing him to the top of the screen, or by killing all of the bugs. A super spray can on the vines falls down when Donkey Kong is sprayed past it. The super spray only lasts for a limited amount of time, but it pushes Donkey Kong upward at a much faster rate, making it easier to complete the level. It only spawns at the start of each life.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fdkong3.zip"
+          },
+          "added": 1651336711723
+        },
+        {
+          "type": "arcade",
+          "title": "Donkey Kong Jr.",
+          "longTitle": "Donkey Kong Jr.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Donkey%20Kong%20Junior%20(US%20set%20F-2).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Donkey%20Kong%20Junior%20(US%20set%20F-2).png",
+          "description": "Fate has turned the tables on the inimitable Donkey Kong.\n\nAfter Mario saved the Beautiful Girl from the lustful clutches of Donkey Kong, he led the brokenhearted ape into captivity, locking him behind steel bars, never again to strut his stuff before the fair maidens of the world.\n\nAs the frustration of confinement enrages Donkey Kong, Mario complacently stands guard over the cell, holding the sought after key to freedom.\n\nBut wait! Unbeknownst to Little Mario, Donkey Kong has produced an offspring - Donkey Kong Junior! A death-defying little monkey, shrewd and cunning, who resists all enemies to rescue Papa Donkey Kong.\n\nAs Mario's brigade of snapping jaws, ape-eating birds and energy pods launch their offensive, Junior bombards them with a fusillade of Fruit Bombs that aim to annihilate his every foe.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fdkongjr.zip"
+          },
+          "added": 1651336715034
+        },
+        {
+          "type": "arcade",
+          "title": "Fantasy Zone",
+          "longTitle": "Fantasy Zone",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Fantasy%20Zone%20(Rev%20A%2C%20unprotected).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Fantasy%20Zone%20(Rev%20A%2C%20unprotected).png",
+          "description": "Fantasy Zone is a 1986 arcade game by Sega, and the first game in the Fantasy Zone series. It was later ported to a wide variety of consoles, including the Master System. The player controls a sentient spaceship named Opa-Opa who fights an enemy invasion in the titular group of planets. The game contains a number of features atypical of the traditional scrolling shooter. The main character, Opa-Opa, is sometimes referred to as Sega's first mascot character.\n\nThe game design and main character have many similarities to the earlier TwinBee, and both are credited with establishing the cute 'em up subgenre. It also popularized the concept of a boss rush, a stage where the player faces multiple previous bosses again in succession.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Ffantzone.zip"
+          },
+          "added": 1651336720435
+        },
+        {
+          "type": "arcade",
+          "title": "Galaga",
+          "longTitle": "Galaga",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Galaga%20(Namco%20rev.%20B).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Galaga%20(Namco%20rev.%20B).png",
+          "description": "Galaga is a 1981 fixed shooter arcade video game developed and published by Namco. In North America, it was released by Midway Manufacturing. It is the sequel to Galaxian (1979), Namco's first major video game hit in arcades. Controlling a starship, the player is tasked with destroying the Galaga forces in each stage while avoiding enemies and projectiles. Some enemies can capture a player's ship via a tractor beam, which can be rescued to transform the player into a \"dual fighter\" with additional firepower.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fgalaga.zip"
+          },
+          "added": 1651336724786
+        },
+        {
+          "type": "arcade",
+          "title": "Golden Axe",
+          "longTitle": "Golden Axe",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Golden%20Axe%20(set%206%2C%20US%2C%208751%20317-123A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Golden%20Axe%20(set%206%2C%20US%2C%208751%20317-123A).png",
+          "description": "Golden Axe is a sideways scrolling beat-em-up set in a traditional fantasy world, in which up to three warriors take up arms to rescue the kidnapped King and his Queen from the evil Death Adder.\n\nThe game's three different playable characters are an Amazonian warrior named Tyris Flare, a Barbarian hero named Ax Battler, and a Viking dwarf named Gilius Thunderhead. Each character has a special attack move that is activated by pressing both JUMP and ATTACK at the same time. Also, double-tapping the joystick right or left will make the character charge and smash into opponents.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fgoldnaxe.zip"
+          },
+          "added": 1651336739930
+        },
+        {
+          "type": "arcade",
+          "title": "Mario Bros.",
+          "longTitle": "Mario Bros.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Mario%20Bros.%20(US%2C%20Revision%20G).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Mario%20Bros.%20(US%2C%20Revision%20G).png",
+          "description": "Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping. Unlike future Mario games, players cannot jump on enemies and squash them, unless they were already turned on their back. Each phase is a series of platforms with pipes at each corner of the screen, along with an object called a \"POW\" block in the center. Phases use wraparound, meaning that enemies and players that go off to one side will reappear on the opposite side. The game continues until the player loses all lives.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fmario.zip"
+          },
+          "added": 1651336742245
+        },
+        {
+          "type": "arcade",
+          "title": "Mortal Kombat",
+          "longTitle": "Mortal Kombat",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Mortal%20Kombat%20(rev%205.0%20T-Unit%2003_19_93).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Mortal%20Kombat%20(rev%205.0%20T-Unit%2003_19_93).png",
+          "description": "Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. \n\nBattles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fmk.zip"
+          },
+          "added": 1651336760008
+        },
+        {
+          "type": "arcade",
+          "title": "Mortal Kombat 3",
+          "longTitle": "Mortal Kombat 3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Mortal%20Kombat%203%20(rev%202.1).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Mortal%20Kombat%203%20(rev%202.1).png",
+          "description": "Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fmk3.zip"
+          },
+          "added": 1651336880663
+        },
+        {
+          "type": "arcade",
+          "title": "Ms. Pac-Man",
+          "longTitle": "Ms. Pac-Man",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/MS%20Pacman.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/MS%20Pacman.png",
+          "description": "In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. \n\nNamco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. \n\nAnother change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. \n\nMs Pac-Man features four different maze layouts, which alternate every two to four rounds:",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fmspacman.zip"
+          },
+          "added": 1651336907295
+        },
+        {
+          "type": "arcade",
+          "title": "NBA Jam",
+          "longTitle": "NBA Jam",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/NBA%20Jam%20(rev%203.01%204_07_93).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/NBA%20Jam%20(rev%203.01%204_07_93).png",
+          "description": "NBA Jam is a basketball video game developed and published by Midway for arcades in 1993. It is the first entry in the NBA Jam series. It is one of the first real playable basketball arcade games and is also one of the first sports games to feature NBA-licensed teams and players, and their real digitized likenesses.\n\nA key feature of NBA Jam is the exaggerated nature of the play – players can jump extremely high and make slam dunks that defy both human capabilities and the laws of physics. There are no fouls, free throws, or violations except goaltending and 24-second violations. This means the player is able to freely shove or elbow opponents out of the way. Additionally, if a player makes three baskets in a row, the character becomes \"on fire\" and has an unlimited turbo and increased shooting precision. The \"on fire\" mode continues until the other team scores, or until the player who is \"on fire\" scores four additional consecutive baskets while \"on fire\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fnbajam.zip"
+          },
+          "added": 1651336922407
+        },
+        {
+          "type": "arcade-konami",
+          "title": "Gradius",
+          "longTitle": "Gradius",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Nemesis%20(ROM%20version).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Nemesis%20(ROM%20version).png",
+          "description": "Gradius is a side-scrolling shooter video game developed and published by Konami. The first game in the Gradius series, it was originally released as a coin-operated arcade game in 1985. The player maneuvers a spacecraft known as the Vic Viper that must defend itself from the various alien enemies. The game uses a power-up system called the \"power meter\", based upon collecting capsules to purchase additional weapons.\n\nGradius was critically acclaimed for its gameplay and unique power-up system. Along with Namco's Xevious, it is cited as being one of the most important shooter games, having paved the way for many similar games to follow.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fnemesis.zip"
+          },
+          "added": 1651336926572
+        },
+        {
+          "type": "neogeo",
+          "title": "Samurai Shodown",
+          "longTitle": "Samurai Shodown",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGM-045).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGM-045).png",
+          "description": "Samurai Shodown is a competitive fighting game developed and published by SNK for their Neo Geo arcade and home platform. Released in 1993, it is the first installment in the Samurai Shodown series. In contrast to other fighting games at the time, which were set in modern times and focused primarily on hand-to-hand combat, Samurai Shodown is set in feudal-era Japan (similar to Kaneko's Shogun Warriors which was released the year prior) and was SNK's first arcade fighting game to focus primarily on weapon-based combat.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fsamsho.zip"
+          },
+          "added": 1651337010754
+        },
+        {
+          "type": "neogeo",
+          "title": "Samurai Shodown III - Blades of Blood",
+          "longTitle": "Samurai Shodown III - Blades of Blood",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGM-087).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGM-087).png",
+          "description": "Samurai Shodown III: Blades of Blood was released in the arcades on November 15, 1995. It is the third game in SNK's Samurai Shodown series of fighting games. While it is the third game in the main series, it is the first part of a two-chapter story that is chronologically set between the events of Samurai Shodown and Samurai Shodown II.\n\nThe game has a darker aesthetic compared to its predecessors. All characters consequently underwent a visual makeover to match this new tone. The humor that characterized the series made way for a more somber and gritty feel. Along with the aesthetic overhaul came significant changes in the gameplay with introduction of two selectable versions of each character: \"Slash\" (chivalry) and \"Bust\" (treachery). Each version comes with its own moves and fighting styles; Slash is closer to the first two games, while Bust is a more aggressive style that introduces new moves.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fsamsho3.zip"
+          },
+          "added": 1651337090359
+        },
+        {
+          "type": "arcade-capcom",
+          "title": "Street Fighter Alpha 3",
+          "longTitle": "Street Fighter Alpha 3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%203%20(980904%20Euro).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%203%20(980904%20Euro).png",
+          "description": "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fsfa3.zip"
+          },
+          "added": 1651337226599
+        },
+        {
+          "type": "arcade",
+          "title": "Super Hang-On",
+          "longTitle": "Super Hang-On",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Super%20Hang-On%20(sitdown_upright%2C%20unprotected).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Super%20Hang-On%20(sitdown_upright%2C%20unprotected).png",
+          "description": "Super Hang-On is a checkpoint-based racing game and is the sequel to the acclaimed \"Hang-On\", released two years earlier. As with the prequel, players take control of a superbike and must race over twisting road-based circuits, avoiding rival bikers and trying to reach the end-of-stage checkpoint before the time limit expires.\n\nFor the sequel, Sega introduced the hilly, undulating roads that had been executed so superbly in 1986's \"Out Run\". The gameplay was further enhanced with the introduction of the 'turbo' button. Upon reaching the bike's maximum speed of 280kph, players could press and hold the turbo and push the bike up to 324kph - something that was necessary to beat the game's extremely tight time limits. This had to be used carefully, however, as the increase in speed made the bike harder to control and accelerating at the wrong time would invariably see a head-on collision with either rival bikers or the road-side objects that litter the stages.\n\nPlayers could chose to race on any one of four courses: Africa, Asia, America and Europe. Africa is the easiest and shortest of the four, with each subsequent course becoming both more demanding - with tighter bends and more aggressive rival racers - and having a greater number of stages to have to beat. Africa, for example, is made up of only six stages, while the hardest course, Europe, has eighteen stages.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fshangon.zip"
+          },
+          "added": 1651337247308
+        },
+        {
+          "type": "arcade",
+          "title": "Space Harrier",
+          "longTitle": "Space Harrier",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Space%20Harrier%20(Rev%20A%2C%208751%20315-5163A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Space%20Harrier%20(Rev%20A%2C%208751%20315-5163A).png",
+          "description": "Space Harrier is a sprite-scaling 3D shoot-em-up set in the 'Fantasy Zone'; a surreal world composed of abstract structures and a checkerboard landscape. The game's enemies are as abstract as its setting; with creatures including prehistoric Mammoths, alien pods, giant mushrooms and, at the end of most stages, a huge, fireball-spitting Chinese Dragon.\n\nThe player's on-screen counterpart carries a portable jetpack under his arm which allows him to fly. The player can also run along the ground to avoid overhead structures and enemies.\n\nIn addition to its flight capability, the jetpack is also equipped with a laser, used to destroy both the game's many enemies as well as some (but not all) obstructions, such as the trees and floating rocks on the first stage.\n\nSpace Harrier has a total of 18 stages, each with a boss fight at the end. Three exceptions are the bonus stages (5th and 12th) and the 18th stage, which is a 'boss rush' featuring some of the bosses encountered up to that point.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fsharrier.zip"
+          },
+          "added": 1651337261295
+        },
+        {
+          "type": "arcade",
+          "title": "Shinobi",
+          "longTitle": "Shinobi",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Shinobi%20(set%206%2C%20System%2016A%2C%20unprotected).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Shinobi%20(set%206%2C%20System%2016A%2C%20unprotected).png",
+          "description": "Shinobi is a scrolling platform beat-em-up in which the player takes on the role of Joe Musashi, a Shinobi Ninja, who must fight his way through 5 tough missions - each made up of between 3 to 5 stages - in his quest to rescue the kidnapped Ninja children of the Iga clan; now hostages of an evil Ninja syndicate called \"Zeed\". To complete a mission, the player must rescue all of the kidnapped children on each level, with the number of hostages remaining displayed on a meter in the bottom left corner of the screen.\n\nShinobi was a huge success for Sega, and deservedly so. Its perfectly realized blend of platform and fighting action and is as fine an exponent of the 'easy to get into, difficult to master' gameplay ethic as video games have seen.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fshinobi.zip"
+          },
+          "added": 1651337269206
+        },
+        {
+          "type": "arcade",
+          "title": "Sky Skipper",
+          "longTitle": "Sky Skipper",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Sky%20Skipper.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Sky%20Skipper.png",
+          "description": "Sky Skipper is a 1981 arcade game by Nintendo. In the game, the player pilots a biplane and must save animals and a royal family from gorillas holding them captured.\n\nThe game was poorly received in location testing and was never widely released. The cabinets were converted into Popeye machines for release the following year. Nintendo of America stored one cabinet in its archives which is now the only known Sky Skipper cabinet remaining in the world. The cabinet was scanned and photographed by arcade enthusiasts in 2016, who also sourced one of four known remaining Sky Skipper arcade boards to build a faithful cabinet restoration. The board from the Nintendo of America cabinet is the only known unmodified boardset of the game. Nintendo copied the ROM image from this board and released it on the Nintendo Switch eShop in 2018 as part of the Arcade Archives series of digital download titles.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fskyskipr.zip"
+          },
+          "added": 1651337273108
+        },
+        {
+          "type": "arcade-konami",
+          "title": "Teenage Mutant Ninja Turtles",
+          "longTitle": "Teenage Mutant Ninja Turtles",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Teenage%20Mutant%20Ninja%20Turtles%20(World%204%20Players%2C%20version%20X).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Teenage%20Mutant%20Ninja%20Turtles%20(World%204%20Players%2C%20version%20X).png",
+          "description": "Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Ftmnt.zip"
+          },
+          "added": 1651337343801
+        },
+        {
+          "type": "arcade-konami",
+          "title": "TwinBee",
+          "longTitle": "TwinBee",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/TwinBee%20(ROM%20version).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/TwinBee%20(ROM%20version).png",
+          "description": "TwinBee is a vertical-scrolling shoot 'em up game originally released by Konami as an arcade game in 1985 in Japan. Along with Sega's Fantasy Zone, released a year later, TwinBee is credited as an early archetype of the \"cute 'em up\" type in its genre. It was the first game to run on Konami's Bubble System hardware.\n\nTwinBee can be played by up to 2-players simultaneously. The player takes control of a cartoon-like anthropomorphic spacecraft, with Player 1 taking control of TwinBee, the titular ship, while Player 2 controls WinBee. The game control consists of an eight-way joystick and two buttons: one for shooting enemies in the air and the other for dropping bombs to ground enemies (similarly to Xevious).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Ftwinbee.zip"
+          },
+          "added": 1651337350981
+        },
+        {
+          "type": "arcade",
+          "title": "Wonder Boy III - Monster Lair",
+          "longTitle": "Wonder Boy III - Monster Lair",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Wonder%20Boy%20III%20-%20Monster%20Lair%20(set%206%2C%20World%2C%20System%2016B%2C%208751%20317-0098).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Wonder%20Boy%20III%20-%20Monster%20Lair%20(set%206%2C%20World%2C%20System%2016B%2C%208751%20317-0098).png",
+          "description": "Wonder Boy III: Monster Lair is a side-scrolling action game developed by Westone Bit Entertainment that was originally released for the arcades by Sega in 1988.\n\nThe game balances basic concepts found in both platformers and arcade shooters. The player is able to jump and shoot projectiles from a sword. He must ride a flying dragon and confront a large boss throughout the second half of each round. The player's life bar steadily diminishes as time passes. Health is gained through collection of fruit and projectile weapons. Some fruits, when shot, will expand and burst into multiple items.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fwb3.zip"
+          },
+          "added": 1651337358851
+        },
+        {
+          "type": "arcade",
+          "title": "Wonder Boy",
+          "longTitle": "Wonder Boy",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Wonder%20Boy%20(set%201%2C%20315-5177).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Wonder%20Boy%20(set%201%2C%20315-5177).png",
+          "description": "The titular Wonder Boy is a tribal caveman-like boy whose girlfriend Tina[b] has been captured by the dark King (known as Drancon in the Game Gear version). The player must guide the Wonder Boy through seven \"areas\", each consisting of four \"rounds\".\n\nThe boy can arm himself with a stone hatchet, which he can throw at oncoming foes, a skateboard with which he can rush through the levels and temporary protection by an angel which allows him to destroy foes by simply running into them. All of the aforementioned power-ups are obtained by breaking open eggs. These eggs can also contain unpleasant surprises – curses which cause him to lose vitality more quickly than usual, and poisonous mushrooms which reduce the boy's vitality in one go. The player must remain aware of the vitality meter, which constantly runs down at a steady pace and can only be refilled by collecting food throughout the level. There is also one doll to collect in each level, which doubles the bonus points awarded at the end of the level. If all 28 dolls are collected, then a bonus eighth area will be unlocked.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fwboy.zip"
+          },
+          "added": 1651337362555
+        },
+        {
+          "type": "arcade",
+          "title": "Xevious",
+          "longTitle": "Xevious",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Xevious%20(Namco).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Xevious%20(Namco).png",
+          "description": "Xevious is a vertically scrolling shooter developed by Namco and released in arcades in 1982. It was published in Japan and Europe by Namco and in North America by Atari, Inc. Controlling the Solvalou starship, the player attacks Xevious forces before they destroy all of mankind. The Solvalou has two weapons at its disposal: a zapper to destroy flying craft, and a blaster to bomb ground installations and enemies. It runs on the Namco Galaga arcade system.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fxevious.zip"
+          },
+          "added": 1651337367097
+        },
+        {
+          "type": "arcade-capcom",
+          "title": "Hyper Street Fighter II: The Anniversary Edition",
+          "longTitle": "Hyper Street Fighter II: The Anniversary Edition",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Hyper%20Street%20Fighter%20II_%20The%20Anniversary%20Edition%20(040202%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Hyper%20Street%20Fighter%20II_%20The%20Anniversary%20Edition%20(040202%20USA).png",
+          "description": "Hyper Street Fighter II: The Anniversary Edition is a fighting game by Capcom that was originally released for the arcade and PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth arcade iteration. This game is also the last to use the CP System II.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fhsf2.zip"
+          },
+          "added": 1651337417250
+        },
+        {
+          "type": "arcade",
+          "title": "Bomber Man World",
+          "longTitle": "Bomber Man World",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Bomber%20Man%20World%20_%20New%20Dyna%20Blaster%20-%20Global%20Quest.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Bomber%20Man%20World%20_%20New%20Dyna%20Blaster%20-%20Global%20Quest.png",
+          "description": "Bomber Man World is a 1992 video game released by Irem under license from Hudson Soft for arcades. It is part of the Bomberman series. It was the second Bomberman game to be released for arcades, preceded by Bomberman (1991), which was also released by Irem.\n\nWhen all enemies are destroyed the player automatically goes to the next stage. Items are lost after each stage, reducing the inventory to one bomb, and the default blast radius and walking speed. There are six worlds with six levels in each; after every fifth level there is a Bonus Stage, wherein soft blocks contain many points items and power ups.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fbbmanw.zip"
+          },
+          "added": 1651338798173
+        },
+        {
+          "type": "arcade",
+          "title": "Bubble Bobble",
+          "longTitle": "Bubble Bobble",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Bubble%20Bobble%20(Japan%2C%20Ver%200.1).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Bubble%20Bobble%20(Japan%2C%20Ver%200.1).png",
+          "description": "Bubble Bobble is a 1986 platform arcade game developed and published by Taito. It was distributed in the United States by Romstar, and in Europe by Electrocoin. Players control Bub and Bob, two dragons that set out to save their girlfriends from a world known as the Cave of Monsters. In each level, Bub and Bob must defeat each enemy present by trapping them in bubbles and popping, who turn into bonus items when they hit the ground. There are 100 levels total, each becoming progressively more difficult.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fbublbobl.zip"
+          },
+          "added": 1651338807623
+        },
+        {
+          "type": "arcade",
+          "title": "Millipede",
+          "longTitle": "Millipede",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Millipede.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Millipede.png",
+          "description": "Millipede is a 1- or 2-player game with a color raster-scan video display. The game action takes place on a playfield filled with mushrooms, flowers, and deadly DDT bombs. The player tries to destroy a variety of insects that drop from the top of the screen or enter from the sides of the screen, most of them to attack the player. The player controls a bow-shaped vehicle called the Archer. The object of the game is to shoot and destroy as many objects as possible for a high point score, before the player's lives are all used up.\n\nPlayer control consists of a Midi Trak-Ball control and a FIRE button. The Archer is moved by rotating the Midi Trak-Ball control. The Archer can be moved in all directions, but only within the bottom fifth of the screen. However, the Archer must move around mushrooms, flowers, and DDT bombs, since these are fixed and not 'transparent' objects. Pressing the FIRE button causes the Archer to emit an arrow that travels upward. The Archer may fire one or many arrows (by holding down the FIRE button constantly). But only one arrow will appear on the screen at a time.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fmilliped.zip"
+          },
+          "added": 1651340480523
+        },
+        {
+          "type": "arcade",
+          "title": "Turbo Out Run",
+          "longTitle": "Turbo Out Run",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Turbo%20Out%20Run%20(Out%20Run%20upgrade%2C%20FD1094%20317-0118).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Turbo%20Out%20Run%20(Out%20Run%20upgrade%2C%20FD1094%20317-0118).png",
+          "description": "Turbo OutRun is a 1989 arcade racing game released by Sega. A follow-up to 1986's Out Run, it was released as a dedicated game, as well as an upgrade kit for the original Out Run board.\n\nLike its predecessor, Turbo OutRun has players driving a Ferrari, this time a Ferrari F40. Players now traverse a set route across the entire continental United States from New York City to Los Angeles instead of the branching paths of the first game. In addition to a time limit, Turbo OutRun also adds a computer-controlled opponent driving a Porsche 959. The \"Turbo\" in the title also plays a factor as players can now press a button to receive a brief turbo boost of speed. Various power-ups which increase the vehicle's attributes can now be chosen at various stages of the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Ftoutrun.zip"
+          },
+          "added": 1651341926628
+        },
+        {
+          "type": "arcade",
+          "title": "Donkey Kong",
+          "longTitle": "Donkey Kong",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Donkey%20Kong%20(US%20set%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Donkey%20Kong%20(US%20set%201).png",
+          "description": "Donkey Kong is a 1981 arcade platform video game released by Nintendo. Its gameplay maneuvers Mario across platforms to ascend a construction site and rescue Pauline from the giant gorilla named Donkey Kong, all while avoiding or jumping over obstacles.\n\nIt is the product of Nintendo's increasingly desperate efforts to develop a hit to rival Pac-Man (1980) and break into the North American market. Hiroshi Yamauchi, Nintendo's president at the time, assigned the project to first-time video game designer Shigeru Miyamoto. Drawing from a wide range of inspirations including Popeye, Beauty and the Beast, and King Kong, Miyamoto developed the scenario and designed the game alongside chief engineer Gunpei Yokoi. They broke new ground by using graphics as a means of characterization, including cutscenes to advance the game's plot and integrating multiple stages into the gameplay.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fdkong.zip"
+          },
+          "added": 1651342301043
+        },
+        {
+          "type": "arcade",
+          "title": "Chase H.Q.",
+          "longTitle": "Chase H.Q.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Chase%20H.Q.%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Chase%20H.Q.%20(World).png",
+          "description": "\"Chase H.Q.\" is a checkpoint-based racing game in which the player takes on the role on an undercover cop called Tony Gibson in this 'Miami Vice' inspired game from Taito. Gibson drives a powerful unmarked police car (resembling a Porsche 911) along with his partner, 'Raymond Broady' and must chase down and apprehend various criminals.\n\nThe player has between fifty-five and seventy seconds (depending on the game's 'Dip' settings) to catch up with the fleeing criminal, then the same time period again to repeatedly ram into the criminal's car until it is too damaged to drive. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape and the game ends.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fchasehq.zip"
+          },
+          "added": 1651343187578
+        }
+      ]
     },
     {
       "title": "Nintendo Entertainment System",
@@ -90,19 +637,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%20Entertainment%20System.zip/Bonk%27s%20Adventure%20%28USA%29.zip"
           },
           "added": 1650729220601
-        },
-        {
-          "title": "Bubble Bobble",
-          "longTitle": "Bubble Bobble",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Bubble%20Bobble%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Bubble%20Bobble%20(USA).png",
-          "description": "In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.\nThe player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. Bubbles that contain enemies can be popped at the same time resulting in different foods being projected throughout the level. Each enemy trapped in a bubble equates to a different food. Food is consumed and transferred to points (an increasing scale of 1000 points is awarded for each enemy burst in tandem with another meaning: one enemy burst equals one food item worth 1000 points, two enemies burst equals two food items worth 1000 and 2000 points, three enemies burst equals three food items worth 1000, 2000, and 3000 points, and so on) which results in more lives. These same bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated.\nEnemies turn \"angry\"  becoming pink-colored and moving faster  if they are the last enemy remaining, escape from a bubble after being left too long, or a certain amount of time has been spent on the current level. A monster will also become angry if either player collects a skull (the only negative item in the game), and the monster is hit by the resulting comet crossing the screen. However, this is a rare occurrence.\nAfter a further time limit expires, an additional invincible enemy appears for each player, actively chasing them using only vertical and horizontal movements. These do not need to be defeated to complete the level, and disappear once a player's life is lost.\nContact with enemies and their projectiles (rocks, lasers, fireballs, etc.) is deadly, resulting in the loss of a life.\nThe game's music was written by Japanese team Zuntata. Peter Clarke, Tim Follin and David Whittaker have arranged music for home computer ports (some versions have a new intro music by Whittaker).",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%20Entertainment%20System.zip/Bubble%20Bobble%20%28USA%29.zip"
-          },
-          "added": 1650729228873
         },
         {
           "title": "Castlevania",
@@ -558,19 +1092,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%20Entertainment%20System.zip/River%20City%20Ransom%20%28USA%29.zip"
           },
           "added": 1650729460606
-        },
-        {
-          "title": "Rygar",
-          "longTitle": "Rygar",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Rygar%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Rygar%20(USA).png",
-          "description": "An evil being known as Ligar is about to conquer the land of Argool. Such is his power that no living creature dares to cross paths with him. But the legendary warrior Rygar rises from his grave to restore peace and justice. Armed with his famed weapon Diskarmor, Rygar begins to traverse the vast lands that lead to the lair of the demon, as his minions are trying in vain to stop him...",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%20Entertainment%20System.zip/Rygar%20%28USA%29.zip"
-          },
-          "added": 1650729463972
         },
         {
           "title": "Skate or Die",
@@ -2005,19 +2526,6 @@
           "added": 1650727162640
         },
         {
-          "title": "R-Type DX",
-          "longTitle": "R-Type DX",
-          "type": "gbc",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/R-Type%20DX%20(USA%2C%20Europe)%20(GB%20Compatible).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/R-Type%20DX%20(USA%2C%20Europe)%20(GB%20Compatible).png",
-          "description": "As the pilot of the R-9 space fighter, you're mankind's last hope of destroying the vicious Bydo Empire before they can wipe out the human race! This cart includes R-Type and R-Type II for the Game Boy and Game Boy Color enhanced versions, as well as the deluxe version, R-Type DX (R-Type and R-Type mixed in one single game).\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Game%20Boy%20Color.zip/R-Type%20DX%20%28USA%2C%20Europe%29.zip"
-          },
-          "added": 1650727176650
-        },
-        {
           "title": "Rayman",
           "longTitle": "Rayman",
           "type": "gbc",
@@ -2712,19 +3220,6 @@
       "backgroundPixelated": false,
       "items": [
         {
-          "title": "Virtual Boy Wario Land",
-          "longTitle": "Virtual Boy Wario Land",
-          "type": "vb",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Virtual%20Boy%20Wario%20Land%20(Japan%2C%20USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Virtual%20Boy%20Wario%20Land%20(Japan%2C%20USA).png",
-          "description": "Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.zip"
-          },
-          "added": 1651245303069
-        },
-        {
           "title": "Jack Bros.",
           "longTitle": "Jack Bros.",
           "type": "vb",
@@ -2736,32 +3231,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Jack%20Bros.%20%28USA%29.zip"
           },
           "added": 1651245419753
-        },
-        {
-          "title": "Mario's Tennis",
-          "longTitle": "Mario's Tennis",
-          "type": "vb",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Mario's%20Tennis%20(Japan%2C%20USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Mario's%20Tennis%20(Japan%2C%20USA).png",
-          "description": "Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Mario%27s%20Tennis%20%28Japan%2C%20USA%29.zip"
-          },
-          "added": 1651245449637
-        },
-        {
-          "title": "Vertical Force",
-          "longTitle": "Vertical Force",
-          "type": "vb",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Vertical%20Force%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Vertical%20Force%20(USA).png",
-          "description": "The game takes place in \"Space Era 210.\" The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Vertical%20Force%20%28USA%29.zip"
-          },
-          "added": 1651245495669
         },
         {
           "title": "Mario Clash",
@@ -2777,6 +3246,19 @@
           "added": 1651245896838
         },
         {
+          "title": "Mario's Tennis",
+          "longTitle": "Mario's Tennis",
+          "type": "vb",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Mario's%20Tennis%20(Japan%2C%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Mario's%20Tennis%20(Japan%2C%20USA).png",
+          "description": "Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Mario%27s%20Tennis%20%28Japan%2C%20USA%29.zip"
+          },
+          "added": 1651245449637
+        },
+        {
           "title": "Teleroboxer",
           "longTitle": "Teleroboxer",
           "type": "vb",
@@ -2788,6 +3270,32 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Teleroboxer%20%28Japan%2C%20USA%29.zip"
           },
           "added": 1651245947648
+        },
+        {
+          "title": "Vertical Force",
+          "longTitle": "Vertical Force",
+          "type": "vb",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Vertical%20Force%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Vertical%20Force%20(USA).png",
+          "description": "The game takes place in \"Space Era 210.\" The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Vertical%20Force%20%28USA%29.zip"
+          },
+          "added": 1651245495669
+        },
+        {
+          "title": "Virtual Boy Wario Land",
+          "longTitle": "Virtual Boy Wario Land",
+          "type": "vb",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Snaps/output/Virtual%20Boy%20Wario%20Land%20(Japan%2C%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-vb-images/master/Named_Titles/resized/Virtual%20Boy%20Wario%20Land%20(Japan%2C%20USA).png",
+          "description": "Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Virtual%20Boy.zip/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.zip"
+          },
+          "added": 1651245303069
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/vb.webp",
@@ -2828,7 +3336,7 @@
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/California%20Games%20(USA%2C%20Europe%2C%20Brazil).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/California%20Games%20(USA%2C%20Europe%2C%20Brazil).png",
-          "description": "California Games consisted of some sports purportedly popular in California including skateboarding, freestyle footbag, surfing, roller skating, flying disc (frisbee) and BMX.",
+          "description": "California Games is a 1987 sports video game originally released by Epyx. Branching from their popular Summer Games and Winter Games series, this game consists of a collection of outdoor sports purportedly popular in California.\n\nThe Master System conversion was developed by Sega themselves and released in 1989, which, like the similar NES version from around the same time, was mainly based off of the Commodore 64 version.",
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Master%20System%20-%20Mark%20III.zip/California%20Games%20%28USA%2C%20Europe%29.zip"
@@ -2862,32 +3370,6 @@
           "added": 1650727464604
         },
         {
-          "title": "R-Type",
-          "longTitle": "R-Type",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/R-Type%20(World).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/R-Type%20(World).png",
-          "description": "R-Type is set in the 22nd century, and the player flies a futuristic fighter craft called the R-9a \"Arrowhead\", named for its shape, and because it is the ninth model in the 'R' series of fighter craft (but it is the first of the series to actually be used in combat; the previous models were all prototypes). The mission is to 'blast off and strike the evil Bydo Empire'. The significance of the R- in the series title refers to the production code as well as the term of endearment for the player fighter craft, the \"Round Canopy\".",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Master%20System%20-%20Mark%20III.zip/R-Type%20%28World%29.zip"
-          },
-          "added": 1650727471616
-        },
-        {
-          "title": "Taito Chase H.Q.",
-          "longTitle": "Taito Chase H.Q.",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Taito%20Chase%20H.Q.%20(Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Taito%20Chase%20H.Q.%20(Europe).png",
-          "description": "New York - to help eradicate crime, the Manhatten Police have established a special investigation headquarters. They call it CHASE H.Q. - its objective: to arrest criminals escaping in cars from the scene of a crime.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Master%20System%20-%20Mark%20III.zip/Taito%20Chase%20H.Q.%20%28Europe%29.zip"
-          },
-          "added": 1650727476609
-        },
-        {
           "title": "The Lucky Dime Caper Starring Donald Duck",
           "longTitle": "The Lucky Dime Caper Starring Donald Duck",
           "type": "sms",
@@ -2901,12 +3383,12 @@
           "added": 1650738239020
         },
         {
-          "title": "Vampire",
-          "longTitle": "Vampire",
+          "title": "Master of Darkness",
+          "longTitle": "Master of Darkness",
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Vampire%20(Europe)%20(Beta).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Vampire%20(Europe)%20(Beta).png",
-          "description": "The shadow of Dracula has spread over Victorian England. Make your way through strange and forbidding streets and cavernous warehouses while fighting his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp.",
+          "description": "Master of Darkness is a platform game, very similar to Castlevania. The plot has the player entering the role of a Ouija board-playing psychologist named Dr. Ferdinand Social, who is looking to defeat Count Dracula, who is behind a series of killings in London that have been attributed to Jack the Ripper. However, Jack the Ripper is indeed responsible, for he is using the victim's bodies and fresh blood for sacrificial offerings – as part of a dark ritual being performed by Count Massen to resurrect Dracula. Also taking some part in the murders and the dark ritual is a mysterious Psychic Girl, who is possessed by an evil Skull Spirit.",
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Master%20System%20-%20Mark%20III.zip/Vampire%20%28Europe%29%20%28Beta%29.zip"
@@ -2919,7 +3401,7 @@
           "type": "sms",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Wonder%20Boy%20III%20-%20The%20Dragon's%20Trap%20(USA%2C%20Europe).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Wonder%20Boy%20III%20-%20The%20Dragon's%20Trap%20(USA%2C%20Europe).png",
-          "description": "Wonder Boy looks for the Salamander Cross that is hidden by the Vampire Dragon in Monster Land.\nThe player explores and finds items and clues needed for Wonder Boy to access different parts of Monster Land.",
+          "description": "Wonder Boy III: The Dragon's Trap is a platforming action-adventure video game developed by Westone as part of Sega's Wonder Boy series. It was published by Sega and released for the Master System in 1989.\n\nThe game takes place after the events of Wonder Boy in Monster Land, in which Wonder Boy has been cursed by the Mecha Dragon and must locate the Salamander Cross to lift it. The game is nonlinear and features varying landscapes in which players must navigate. Players find items and clues needed to access different parts of Monster Land, and they can transform into other forms and gain different abilities.",
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Master%20System%20-%20Mark%20III.zip/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.zip"
@@ -3052,19 +3534,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Gunstar%20Heroes%20%28USA%29.zip"
           },
           "added": 1650728217708
-        },
-        {
-          "title": "Marble Madness",
-          "longTitle": "Marble Madness",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Marble%20Madness%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Marble%20Madness%20(USA%2C%20Europe).png",
-          "description": "The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Marble%20Madness%20%28USA%2C%20Europe%29.zip"
-          },
-          "added": 1650728272647
         },
         {
           "title": "Mega Bomberman",
@@ -3520,6 +3989,19 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Zero%20Wing%20%28Europe%29.zip"
           },
           "added": 1650728605720
+        },
+        {
+          "title": "Marble Madness",
+          "longTitle": "Marble Madness",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Marble%20Madness%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Marble%20Madness%20(USA%2C%20Europe).png",
+          "description": "The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Marble%20Madness%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1651337554275
         }
       ],
       "longTitle": "Mega Drive",
@@ -3804,6 +4286,7 @@
   "longTitle": "Retro Collection",
   "description": "A collection of hand-picked titles for your favourite retro systems - now playable through your browser.\n\nhttps://sysconf16.github.io/",
   "props": {
-    "lnx_boot": "https://archive.org/download/RetroarchSystemFiles/Retroarch-System/Atari%20-%20Lynx%20%28Beetle%20Lynx%20-%20Handy%29.zip/lynxboot.img"
+    "lnx_boot": "https://archive.org/download/RetroarchSystemFiles/Retroarch-System/Atari%20-%20Lynx%20%28Beetle%20Lynx%20-%20Handy%29.zip/lynxboot.img",
+    "neogeo_bios": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fneogeo.zip"
   }
 }
