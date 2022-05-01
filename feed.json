@@ -12,7 +12,20 @@
     },
     {
       "title": "Nintendo Entertainment System",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/bk2.zip"
+          },
+          "type": "nes",
+          "title": "Battle Kid 2 - Mountain of Torment",
+          "longTitle": "Battle Kid 2 - Mountain of Torment",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/bk2.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/bk2.webp",
+          "backgroundPixelated": true,
+          "added": 1651414846234
+        }
+      ],
       "longTitle": "Nintendo Entertainment System",
       "description": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. It was first released as the Family Computer (FC), commonly known as the Famicom, in 1983 in Japan. The NES, a redesigned version, was released in American test markets in October 1985, before becoming widely available in the rest of North America and other countries.",
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/nes.webp",
@@ -30,7 +43,20 @@
     },
     {
       "title": "Super Nintendo Entertainment System",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/sbg.zip"
+          },
+          "type": "snes",
+          "title": "Super Boss Gaiden",
+          "longTitle": "Super Boss Gaiden",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/sbg.webp",
+          "backgroundPixelated": true,
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/sbg.webp",
+          "added": 1651414937106
+        }
+      ],
       "longTitle": "Super Nintendo Entertainment System",
       "description": "The Super Nintendo Entertainment System (SNES), commonly shortened to Super NES or Super Nintendo, is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Oceania, and 1993 in South America. In Japan, it is called the Super Famicom (SFC). In South Korea, it is called the Super Comboy and was distributed by Hyundai Electronics. The system was released in Brazil on August 30, 1993, by Playtronic. Although each version is essentially the same, several forms of regional lockout prevent cartridges for one version from being used in other versions.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/snes.webp",
@@ -66,7 +92,21 @@
     },
     {
       "title": "Game Boy",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/rm.zip",
+            "hwType": 3
+          },
+          "type": "gb",
+          "title": "Rocket Man",
+          "longTitle": "Rocket Man",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/rm.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/rm.webp",
+          "backgroundPixelated": true,
+          "added": 1651415014252
+        }
+      ],
       "longTitle": "Game Boy",
       "description": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The first handheld in the Game Boy family, it was first released in Japan on April 21, 1989. The console was released in North America later the same year, then in Europe in late 1990. It was designed by the same team that developed the Game & Watch series of handheld electronic games and several Nintendo Entertainment System games: Satoru Okada, Gunpei Yokoi, and Nintendo Research & Development 1.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/gb.webp",
@@ -75,7 +115,20 @@
     },
     {
       "title": "Game Boy Color",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/lcw.zip"
+          },
+          "type": "gbc",
+          "title": "Last Crown Warriors",
+          "longTitle": "Last Crown Warriors",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/lcw.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/lcw.webp",
+          "backgroundPixelated": true,
+          "added": 1651415096789
+        }
+      ],
       "longTitle": "Game Boy Color",
       "description": "The Game Boy Color (commonly abbreviated as GBC) is a handheld game console, manufactured by Nintendo, which was released in Japan on October 21, 1998 and to international markets that November. It is the successor to the Game Boy and is part of the Game Boy family.\n\nThe GBC features a color screen rather than monochrome, but it is not backlit. It is slightly thicker and taller and features a slightly smaller screen than the Game Boy Pocket, its immediate predecessor in the Game Boy line. As with the original Game Boy, it has a custom 8-bit processor made by Sharp that is considered a hybrid between the Intel 8080 and the Zilog Z80. The American English spelling of the system's name, Game Boy Color, remains consistent throughout the world.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/gbc.webp",
@@ -84,7 +137,20 @@
     },
     {
       "title": "Game Boy Advance",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/baa.zip"
+          },
+          "type": "gba",
+          "title": "Blast Arena Advance",
+          "longTitle": "Blast Arena Advance",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/baa.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/baa.webp",
+          "backgroundPixelated": true,
+          "added": 1651415187198
+        }
+      ],
       "longTitle": "Game Boy Advance",
       "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in the PAL region on June 22, 2001, and in mainland China as iQue Game Boy Advance on June 8, 2004. The GBA is part of the sixth generation of video game consoles. The original model does not have an illuminated screen; Nintendo addressed that with the release of a redesigned model with a frontlit screen, the Game Boy Advance SP, in 2003. A newer revision of the redesign was released in 2005, with a backlit screen. Around the same time, the final redesign, the Game Boy Micro, was released in September 2005.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/gba.webp",
@@ -104,13 +170,39 @@
       "longTitle": "Virtual Boy",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/vb.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/ba.zip"
+          },
+          "type": "vb",
+          "title": "Bad Apple",
+          "longTitle": "Bad Apple",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/ba.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/ba.webp",
+          "backgroundPixelated": true,
+          "added": 1651415221032
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/vb.webp",
       "description": "The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic \"3D\" graphics. The player uses the console like a head-mounted display, placing the head against the eyepiece to see a red monochrome display. The games use a parallax effect to create the illusion of depth. Sales failed to meet targets, and Nintendo ceased distribution and game development in 1996, having released only 22 games for the system."
     },
     {
       "title": "Master System",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/ww.zip"
+          },
+          "type": "sms",
+          "title": "Wing Warriors",
+          "longTitle": "Wing Warriors",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/ww.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/ww.webp",
+          "backgroundPixelated": true,
+          "added": 1651415266482
+        }
+      ],
       "longTitle": "Master System",
       "description": "The Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America, Australia and Europe.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/ms.webp",
@@ -119,7 +211,20 @@
     },
     {
       "title": "Mega Drive",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/doa.zip"
+          },
+          "type": "genesis",
+          "title": "Demons of Asteborg",
+          "longTitle": "Demons of Asteborg",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/doa.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/doa.webp",
+          "backgroundPixelated": true,
+          "added": 1651415335227
+        }
+      ],
       "longTitle": "Mega Drive",
       "description": "The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. The Genesis was Sega's third console and the successor to the Master System. Sega released it in 1988 in Japan as the Mega Drive, and in 1989 in North America as the Genesis. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australia, and Tec Toy in Brazil. In South Korea, it was distributed by Samsung as the Super Gam*Boy and later the Super Aladdin Boy. In Russia, it was distributed by Forrus.",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/md.webp",
@@ -133,14 +238,40 @@
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/gg.webp",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/gg.webp",
       "backgroundPixelated": false,
-      "items": []
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/t4gg.zip"
+          },
+          "type": "gg",
+          "title": "Tetris4GG",
+          "longTitle": "Tetris4GG",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/t4gg.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/t4gg.webp",
+          "backgroundPixelated": true,
+          "added": 1651415385737
+        }
+      ]
     },
     {
       "title": "2600",
       "longTitle": "2600",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/2600.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/si.zip"
+          },
+          "type": "2600",
+          "title": "Space Instigators",
+          "longTitle": "Space Instigators",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/si.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/si.webp",
+          "backgroundPixelated": true,
+          "added": 1651415537191
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/2600.webp",
       "description": "The Atari 2600, branded as the Atari Video Computer System (Atari VCS) until November 1982, is a home video game console developed and produced by Atari, Inc. Released in September 1977, it popularized microprocessor-based hardware and games stored on swappable ROM cartridges, a format first used with the Fairchild Channel F in 1976. The VCS was bundled with two joystick controllers, a conjoined pair of paddle controllers, and a game cartridge—initially Combat and later Pac-Man."
     },
@@ -149,7 +280,20 @@
       "longTitle": "7800",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/7800.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/kg.zip"
+          },
+          "type": "7800",
+          "title": "Knight Guy in Low Res World - Castle Days",
+          "longTitle": "Knight Guy in Low Res World - Castle Days",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/kg.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/kg.webp",
+          "backgroundPixelated": true,
+          "added": 1651415612711
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/7800.webp",
       "description": "The Atari 7800 ProSystem, or simply the Atari 7800, is a home video game console officially released by Atari Corporation in 1986 as the successor to both the Atari 2600 and Atari 5200. It can run almost all Atari 2600 cartridges, making it one of the first consoles with backward compatibility. It shipped with a different model of joystick from the 2600-standard CX40 and Pole Position II as the pack-in game. Most of the announced titles at launch were ports of 1980–83 arcade games."
     },
@@ -158,7 +302,19 @@
       "longTitle": "Lynx",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/lynx.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/sr.zip"
+          },
+          "type": "lnx",
+          "title": "Sky Raider",
+          "longTitle": "Sky Raider",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/sr.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/sr.webp",
+          "added": 1651415641282
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/lynx.webp",
       "description": "The Atari Lynx is a hybrid 8-bit and 16-bit handheld game console released by Atari Corporation in September 1989 in North America, and in Europe and Japan in 1990.\n\nIt arose as the first handheld game console with a color LCD screen. Its advanced graphics and ambidextrous layout competed with Nintendo's Game Boy (released two months earlier), and with the Game Gear and TurboExpress, both released the following year. It was discontinued in 1995."
     },
@@ -167,7 +323,20 @@
       "longTitle": "PC Engine",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/pcengine.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/r.zip"
+          },
+          "type": "pce",
+          "title": "Reflectron",
+          "longTitle": "Reflectron",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/r.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/r.webp",
+          "backgroundPixelated": true,
+          "added": 1651415686096
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/pcengine.webp",
       "description": "The TurboGrafx-16, known as the PC Engine outside North America, is a fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was the first console marketed in the fourth generation of game consoles, commonly known as the 16-bit era, though the console has an 8-bit central processing unit (CPU). It was released in Japan in 1987 and in North America in 1989. In Europe, the console is known as the PC Engine, after the Japanese model was imported and distributed in the United Kingdom and France from 1988. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super NES."
     },
@@ -176,7 +345,20 @@
       "longTitle": "SuperGrafx",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/supergrafx.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/rt2a.zip"
+          },
+          "type": "sgx",
+          "title": "RT2A",
+          "longTitle": "RT2A",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/rt2a.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/rt2a.webp",
+          "backgroundPixelated": true,
+          "added": 1651415732487
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/supergrafx.webp",
       "description": "The PC Engine SuperGrafx is a fourth-generation home video game console manufactured by NEC Home Electronics and released in Japan in 1989. It is the successor system to the PC Engine, released two years prior. Originally known as the PC Engine 2 during production stages, it was purported as a true 16-bit home console, featuring improved graphics and audio capabilities over its predecessor."
     },
@@ -229,8 +411,8 @@
           "title": "Doom",
           "longTitle": "Doom",
           "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via mail order. An updated version with an additional episode and more difficult levels, The Ultimate Doom, was released in 1995 and sold at retail.",
-          "thumbnail": "https://github.com/webrcade/webrcade-default-feed/raw/main/images/doom/doom1-thumb.png",
-          "background": "https://github.com/webrcade/webrcade-default-feed/raw/main/images/doom/doom1-background.png",
+          "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/doom.webp",
+          "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/doom.webp",
           "backgroundPixelated": true,
           "added": 1650711171953
         }
