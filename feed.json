@@ -23,7 +23,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/bk2.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/bk2.webp",
           "backgroundPixelated": true,
-          "added": 1651414846234
+          "added": 1651414846234,
+          "description": "The adventure continues! Sivak Games proudly presents Battle Kid 2: Mountain of Torment, the sequel to the 2010 title Battle Kid: Fortress of Peril. The next phase of the vile group's plan has begun! The Supermech have have been destroyed, but that was only the beginning.\n\nYou must venture through a giant mountain base and overcome its many dangers. Along the way, items will be found to allow access to new areas and grant you new abilities. An even bigger game than before awaits! Will the torment get to you? Over 650 rooms, more than 20 enemies, 13 boss battles, and other challenges stand between you and victory.\n\nAlso featured are 5 difficulty settings, password system, and a built-in death counter."
         }
       ],
       "longTitle": "Nintendo Entertainment System",
@@ -54,7 +55,8 @@
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/sbg.webp",
           "backgroundPixelated": true,
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/sbg.webp",
-          "added": 1651414937106
+          "added": 1651414937106,
+          "description": "It is yet another lovely day at Sony's HQ when top executives march into the titular Boss' office to deliver the news that the very last Nintendo PlayStation prototype has fallen in the hands of the public, and homebrew enthusiasts have already managed to fully emulate the system. This represents a great shame for the Boss who had decades ago ordered the destruction of every single prototype.\n\nBeing a very hands-on executive, instead of calmly discussing the situation and planning out the proper legal counter action, he promptly switches to rampage mode and proceeds to punch, kick and throw everything in sight, including employees and PlayStation mascots."
         }
       ],
       "longTitle": "Super Nintendo Entertainment System",
@@ -104,7 +106,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/rm.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/rm.webp",
           "backgroundPixelated": true,
-          "added": 1651415014252
+          "added": 1651415014252,
+          "description": "Rocket Man is a young aspiring hero with great passion for technology. One day he runs into Light, a villain with telekinetic powers who plans to take control of the city. Accompanied by his virtual assistant Ellie, Rocket Man must defeat Light and his robot henchmen to bring peace back to the city."
         }
       ],
       "longTitle": "Game Boy",
@@ -126,7 +129,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/lcw.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/lcw.webp",
           "backgroundPixelated": true,
-          "added": 1651415096789
+          "added": 1651415096789,
+          "description": "One hundred years have passed since the battle of the last crown. The legendary soldier who managed to get the crown is back, and together with a group of brave warriors, plans to put an end to the evil forces that are threatening the whole kingdom.\n\nTake on waves of enemies as you try to conquer all the bases of the stage. Each warrior has his own custom weapon, and each stage its own enemies."
         }
       ],
       "longTitle": "Game Boy Color",
@@ -148,7 +152,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/baa.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/baa.webp",
           "backgroundPixelated": true,
-          "added": 1651415187198
+          "added": 1651415187198,
+          "description": "Blast Arena Advance is a fast paced, action-packed homebrew collect-'em-up for your Game Boy Advance.\n\nThe objective of Blast Arena Advance is to collect as many jittering yellow squares as possible, while avoiding the shrapnel thrown out by the explosions. Using your cunning and skill, ricochet the cursor against the walls of your Game Boy to outwit and evade the deadly shrapnel."
         }
       ],
       "longTitle": "Game Boy Advance",
@@ -176,12 +181,13 @@
             "rom": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/roms/ba.zip"
           },
           "type": "vb",
-          "title": "Bad Apple",
-          "longTitle": "Bad Apple",
+          "title": "Bad Apple!!",
+          "longTitle": "Bad Apple!!",
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/ba.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/ba.webp",
           "backgroundPixelated": true,
-          "added": 1651415221032
+          "added": 1651415221032,
+          "description": "Bad Apple!! is a musical track from Lotus Land Story, one of the games in the Touhou Project series. A remix with vocals was produced, and a shadow art music video was made for that remix. The video has since gained popularity as a sort of audio/video test case for retro computers, and this is its appearance on Virtual Boy.\n\nThis production contains the entire three and a half minute song and music video, presented at the full frame rate of the original. It is unusual for Virtual Boy homebrew in that it occupies 16 MB, which is the maximum size for cartridge memory without supplemental mapping circuitry."
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/vb.webp",
@@ -200,7 +206,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/ww.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/ww.webp",
           "backgroundPixelated": true,
-          "added": 1651415266482
+          "added": 1651415266482,
+          "description": "Wing Warriors is a multi-platform game developed in 2019 for Master System. It’s a classic shooting game with some bullet-hell reminiscences. 6 stages with 3 bosses, 3 different players to choose from, and a lot of bullets to avoid."
         }
       ],
       "longTitle": "Master System",
@@ -222,7 +229,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/doa.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/doa.webp",
           "backgroundPixelated": true,
-          "added": 1651415335227
+          "added": 1651415335227,
+          "description": "A new action platform game, straight out of the 16-bit era.\n\nPlay as Gareth, a knight of the royal guard, and defeat the evil forces of Asteborg. Learn powerful spells and use them to clear your path or defeat your enemies.\nCollect gold from the remains of your opponents and purchase upgrades to unlock your full potential!\nPrepare to face powerful bosses that will keep you on your toes. Woods, mountains, swamps and more, explore the world of Asteborg and discover Gareth's mysterious past... But beware, Zadimus is never far away."
         }
       ],
       "longTitle": "Mega Drive",
@@ -249,7 +257,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/t4gg.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/t4gg.webp",
           "backgroundPixelated": true,
-          "added": 1651415385737
+          "added": 1651415385737,
+          "description": "Tetris4GG, a homebrew tribute to the Game Boy release of Tetris. Originally a competition entry to the SMS Power! Coding Competition 2022, the Type A game-mode is now playable on the Game Gear!"
         }
       ]
     },
@@ -269,7 +278,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/si.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/si.webp",
           "backgroundPixelated": true,
-          "added": 1651415537191
+          "added": 1651415537191,
+          "description": "Rather than being just a ROM hack for the Atari 2600 version of Space Invaders like most other modern outings, Space Instigators is actually an entirely coded creation from scratch, rather than being just a hack.\n\nThe game went for a much closer look at imitating the arcade original, using the original colors of only black, white, green and orange (although this was accomplished via overlays), and having all four bunkers (rather than only three on the 2600 version), along with having the usual gameplay of the invaders marching from side to side, dropping bombs, a high scoring U. F. O. flying overhead, etc. However, there are several differences."
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/2600.webp",
@@ -291,7 +301,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/kg.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/kg.webp",
           "backgroundPixelated": true,
-          "added": 1651415612711
+          "added": 1651415612711,
+          "description": "Once you start the game, your objective is to break through multiple rooms plagued with all sorts of perils until you reach room 99, where the evil dragon keeps your pet captive.\n\nYou start the game with three lives, but you will increase that amount every time you find a potion. If you find all the potions, you will have a maximum of eight lives. Also, you will find hearts that recover your health, but these do not increase your max lives counter. Every time an enemy or an obstacle touches you, you will lose a life. If you fall through the bottom of the screen, you will also lose a life.\n\nYou will also have to race against time: you'll have to exit the castle with your pet in one hour or you'll be kiled by the castle curse. The challenge is not only to rescue your beloved pet, but also do so in the shortest time possible.\n\nThe best knights should be able to also find the four secrets hidden in the castle. In some rooms, avoiding the obstacles is enough to reach the exit to the next room.\n\nBut the evil dragon is not the only inhabitant of Evil Castle, so before you can face the final boss, you will have to face his minions: The Castle Guardians. These guardians will do everything in their power to foil your attempts to reach the dragon!\n\nDo you have what it takes to conquer the evil guardians, find your pet, and escape the castle in time? Good luck!"
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/7800.webp",
@@ -312,7 +323,8 @@
           "longTitle": "Sky Raider",
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/sr.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/sr.webp",
-          "added": 1651415641282
+          "added": 1651415641282,
+          "description": "Watch your fuel level on the guage on the bottom-right of the screen. Keep your plane refueled by running over the fuel canisters. Avoid crashing into anything else.\n\nShoot enemy ship, planes, helicopters and tanks for points. Score and high score are shown at the top of the screen.\n\nAt first you may not encounter much resistance from the Bungeling forces, but as you reach further into Bungeling territory, they will start to put up more of a fight."
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/lynx.webp",
@@ -334,7 +346,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/r.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/r.webp",
           "backgroundPixelated": true,
-          "added": 1651415686096
+          "added": 1651415686096,
+          "description": "You are B.E.R.N.A.R.D. - a robot working for an evil overlord. Unlike your master, you have developed a conscience and decided to try and stop the planet destroying laser from doing its job. But your task is not that easy. You are able to move left and right in one half of the screen, while on the other half, Mega Protons are being spat out and slowly float upwards until they are absorbed by the Delta Crystal that powers the laser. Once enough have been absorbed, the laser fires and it's Game Over for you. The only way to stop them is to fire your head-mounted gun and reflect the beams off the angled ceiling to destroy the Mega Protons on the other side. But as time goes on, more appear and they get faster and faster..."
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/pcengine.webp",
@@ -356,7 +369,8 @@
           "thumbnail": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/title/rt2a.webp",
           "background": "https://raw.githubusercontent.com/sysconf16/retro-collection/main/images/games/gameplay/rt2a.webp",
           "backgroundPixelated": true,
-          "added": 1651415732487
+          "added": 1651415732487,
+          "description": "This is RT2A, a SuperGrafx port of the hidden shoot 'em up from the 2013 Super CD-ROM² homebrew release, REVIVAL CHASE."
         }
       ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/supergrafx.webp",
@@ -427,7 +441,7 @@
   "longTitle": "Retro Collection",
   "description": "A custom feed template for the webЯcade online front-end.\n\nhttps://sysconf16.github.io/",
   "props": {
-    "lnx_boot": "https://archive.org/download/RetroarchSystemFiles/Retroarch-System/Atari%20-%20Lynx%20%28Beetle%20Lynx%20-%20Handy%29.zip/lynxboot.img",
-    "neogeo_bios": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fneogeo.zip"
+    "lnx_boot": "",
+    "neogeo_bios": ""
   }
 }
