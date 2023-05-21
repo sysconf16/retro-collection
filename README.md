@@ -1,5 +1,36 @@
 # Retro Collection
-A custom feed template for the SYSCONF¹⁶ [webЯcade](https://github.com/webrcade/webrcade) feed.
+A collection of hand-picked titles for your favourite retro systems - now playable through your browser.
+
+Uses [webЯcade](https://github.com/webrcade/webrcade) as a front-end.
+
+------
+
+### Playable Systems
+- Arcade
+- Nintendo Entertainment System
+- Super Nintendo Entertainment System
+- Nintendo 64
+- Game Boy
+- Game Boy Color
+- Game Boy Advance
+- Virtual Boy
+- Master System
+- Mega Drive
+- Game Gear
+- PlayStation
+- 2600
+- 7800
+- Lynx
+- PC Engine
+- WonderSwan
+- WonderSwan Color
+- Neo Geo Pocket Color
+- MS-DOS (Currently only Doom "Shareware")
+
+------
+
+**ROMs are selected in the following order of preference, favouring the English language and the USA region for 60Hz gameplay:**
+- USA > World > Europe > Japan (English Translated) > Japan
 
 <br>
 
