@@ -18,7 +18,6 @@ Uses [webЯcade](https://github.com/webrcade/webrcade) as a front-end.
 - Mega Drive
 - Game Gear
 - PlayStation
-- 2600
 - 7800
 - Lynx
 - PC Engine
